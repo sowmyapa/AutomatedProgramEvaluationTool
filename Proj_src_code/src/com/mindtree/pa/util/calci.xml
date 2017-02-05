@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ 
+ <problem>
+  <pid>1</pid>
+  <name>Simple Calculator</name>
+  <semester>2</semester>
+  <description>Perform the main </description>  
+   <marks>100</marks>
+   <time>30</time>
+   <createdOn>2010-04-29</createdOn>
+
+   <createdBy>abc</createdBy>
+<pemail>jdhd@DFd</pemail>
+  
+ <test>
+
+ <case>
+   <pid>1</pid>
+
+  <tid>1</tid>
+  
+  <input>1 2 2</input> 
+  <output>4</output> 
+  <title>Addition</title>
+  <description>add</description>  
+  <weightage>20</weightage>
+  </case>
+
+ <case>
+ <pid>1</pid>
+
+  <tid>2</tid>
+  
+  <input>2 6 3 </input> 
+  <output>3</output> 
+  <title>Su
+  btraction</title>
+  <description>Sub</description>  
+  <weightage>20</weightage>
+  </case>
+
+ <case>
+ <pid>1</pid>
+
+   <tid>3</tid>
+   
+  <input>3 9 3</input> 
+  <output>27</output> 
+  <title>Multiplication</title>
+  <description>to check </description> 
+  <weightage>20</weightage>
+  </case>
+
+  <case>
+ <pid>1</pid>
+
+    <tid>4</tid>
+  
+   <input>4 16 4</input>
+   <output>4</output>
+   <title>Division</title>
+  <description>div</description>
+  <weightage>40</weightage>
+   </case>
+  
+  </test>
+  </problem>

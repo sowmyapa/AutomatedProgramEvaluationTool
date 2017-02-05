@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problem>
+  <pid>3</pid>
+  <name>Fibonacci Series</name>
+  <semester>2</semester>
+  <description>Generate fibonacci Series for "N"  number of digits. Fibonacci Series is the sum of numbers in which each number is the sum of the previous two numbers.the input to this program is "N" and output is "N" number of digits</description>  
+   <marks>30</marks>
+   <time>30</time>
+   <createdOn>2010-05-13</createdOn>
+
+     <createdBy>Sita</createdBy>
+     <pemail>sita@gmail.com</pemail>
+   
+   
+  
+ <test>
+
+ <case>
+  <pid>3</pid>
+  <tid>1</tid>
+   <input>3</input> 
+  <output>0 1 1</output>
+  <title>Fibonacci Series generation</title>
+  <description>To generate the initial fibonacci nos</description>  
+  <weightage>30</weightage>
+  
+  </case>
+
+ <case>
+  <pid>3</pid> 
+  <tid>2</tid>
+   <input>5</input> 
+  <output>0 1 1 2 3</output>
+  <title>fibonacci series generation</title>
+  <description>to generate 5 fib nos </description>  
+  <weightage>30</weightage>
+  </case>
+
+ <case>
+   <pid>3</pid>
+   <tid>3</tid>
+    <input>10</input> 
+  <output>0 1 1 2 3 5 8 13 21 34</output>
+  <title>fibonacci series generation</title>
+  <description>to generate 10 fib nos</description>  
+  <weightage>40</weightage>
+ 
+   
+  </case>
+
+  
+  </test>
+  </problem>

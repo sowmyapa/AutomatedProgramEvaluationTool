@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problem>
+  <pid>5</pid>
+  <name>Reversal Of a String</name>
+  <semester>2</semester>
+  <description>Reversing a string without using any in bulit functions/</description>  
+   <marks>30</marks>
+   <time>35</time>
+   <createdOn>2010-06-5th</createdOn>
+
+     <createdBy>suraj</createdBy>
+     <pemail>suraj@gmail.com</pemail>
+   
+   
+  
+ <test>
+
+ <case>
+  <pid>5</pid>
+  <tid>1</tid>
+  <input>Ramona</input> 
+  <output>anomar</output>
+  <title>Reversal ofsingle string</title>
+  <description>To reverse a string which has only one word</description>  
+  
+   <weightage>30</weightage> 
+  </case>
+
+ <case>
+  <pid>5</pid> 
+  <tid>2</tid>
+  <input>hero heroine</input> 
+  <output>Enioreh oreh</output> 
+  <title>Reversal for string with two words</title>
+  <description>To reverse a pharase with  two words</description>  
+  
+   <weightage>30</weightage>
+  </case>
+
+ <case>
+   <pid>5</pid>
+   <tid>3</tid>
+   <input> I have chocolates</input> 
+  <output>setalocohc evah i</output>
+  <title>Reversal for a sentence</title>
+  <description>To reverse a string with a nobel use it wanted</description>  
+  
+   <weightage>40</weightage> 
+  </case>
+
+  
+  </test>
+  </problem>

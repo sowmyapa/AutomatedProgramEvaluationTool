@@ -1,0 +1,54 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<problem>
+  <pid>2</pid>
+  <name>Palindrome check</name>
+  <semester>2</semester>
+  <description>Perform a palindrome check for a word where a palindrome is a word which is the same when read in the forward or reverse direction </description>  
+   <marks>20</marks>
+   <time>30</time>
+   <createdOn>2010-05-12</createdOn>
+
+     <createdBy>XYZ</createdBy>
+     <pemail>xyz@gmail.com</pemail>
+   
+   
+  
+ <test>
+
+ <case>
+  <pid>2</pid>
+  <tid>1</tid>
+   <input>madam</input> 
+  <output>valid palindrome</output>
+  <title>Palindrome check</title>
+  <description>to check for the word madam</description>  
+ 
+  <weightage>30</weightage> 
+  </case>
+
+ <case>
+  <pid>2</pid> 
+  <tid>2</tid>
+  <input>level</input> 
+  <output>valid palindrome</output> 
+  <title>palindrome check</title>
+  <description>to check for the word level </description>  
+  
+  <weightage>30</weightage>
+  </case>
+
+ <case>
+   <pid>2</pid>
+   <tid>3</tid>
+   <input>straw</input> 
+  <output>invalid palindrome</output>
+  <title>palindrome check</title>
+  <description>to check for an invalid palindrome</description>  
+  
+   <weightage>40</weightage>
+  </case>
+
+  
+  </test>
+  </problem>

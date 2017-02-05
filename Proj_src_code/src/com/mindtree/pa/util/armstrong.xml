@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<problem>
+  <pid>4</pid>
+  <name>Armstrong Numbers</name>
+  <semester>3</semester>
+  <description>Armstrong numbers are the sum of their own digits to the power of the number of digits. for example 1^3+5^3+3^3 = 153. This program is used to check whehter a given number is an armstrong no.
+  </description>  
+   <marks>100</marks>
+   <time>35</time>
+   <createdOn>2010-04-13</createdOn>
+
+     <createdBy>shyam</createdBy>
+     <pemail>shyam@gmail.com</pemail>
+      
+  
+ <test>
+
+ <case>
+  <pid>4</pid>
+  <tid>1</tid>
+  <input>407</input> 
+  <output>Armstrong number</output>
+  <title>Armstrong number check</title>
+  <description>To check for a valid armstrong number</description>  
+   <weightage>30</weightage>
+  </case>
+
+ <case>
+  <pid>4</pid> 
+  <tid>2</tid>
+   <input>93084</input> 
+  <output>Armstrong number</output> 
+  <title>Armstrong number check</title>
+  <description>To check for a valid armstrong number </description>  
+ 
+  <weightage>30</weightage>
+  </case>
+
+ <case>
+   <pid>4</pid>
+   <tid>3</tid>
+   <input>6300</input> 
+  <output>Not armstrong number</output> 
+  <title>Armstrong number check</title>
+  <description>To check for an invalid armstrong number</description>  
+  
+  <weightage>40</weightage>
+  </case>
+
+  
+  </test>
+  </problem>
