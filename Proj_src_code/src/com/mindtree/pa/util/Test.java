@@ -26,6 +26,7 @@ public class Test {
 	public void runXml() {
 
 		try {
+			
 			// READ FILE INTO XML STRING
 			Boolean check=false;
 			String xml = new String();
